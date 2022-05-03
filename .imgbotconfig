@@ -1,3 +1,5 @@
 {
-    "aggressiveCompression": true
+    "aggressiveCompression": true,
+    "compressWiki": "true",
+    "minKBReduced": null
 }
